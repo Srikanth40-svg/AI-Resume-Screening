@@ -1,4 +1,7 @@
-# 🤖 AI Resume Screening & Job Matching
+# 🤖 AI Resume Screening & Job Matching 
+## 🚀 Live Demo
+
+[Try the AI Resume Screening App](https://ai-resume-screening-qdpbu5yoiaqqyr49vbhikq.streamlit.app/)
 
 An LLM-powered resume screening system that analyzes job descriptions, extracts structured information from candidate resumes, evaluates candidate-job compatibility, and ranks candidates based on their match scores.
 
